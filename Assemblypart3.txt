@@ -1,0 +1,16 @@
+
+assign a variable to 3
+assign a variable to 5 
+assign a variable to 0
+mov 3 to eax
+multiply 3 by 5 and put into eax
+move 15 into edx
+move 3 into eax
+move eax into ecx
+divide ecx by 2^eax(1F)
+add that value back to eax = 3
+divide eax by 2 = 
+edx - eax into edx = 
+move that value into eax
+move into a the 3rd variable declaration the value in eax
+sets up the print for the variable and prints it
